@@ -1,11 +1,10 @@
-import "styles/global.scss";
-
 import Home from "pages";
+import "styles/global.scss";
 
 function App(): JSX.Element {
   return (
     <div className="App">
-      <Home />
+      < Home />
     </div>
   );
 }
