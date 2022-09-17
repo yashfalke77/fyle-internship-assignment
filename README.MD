@@ -1,3 +1,29 @@
+<div id="top"></div>
+
+<br />
+<div align="center">
+  <p align="center">
+    <b>Fyle Internship ssignment</b>
+    <br />
+    <!-- <a href="https://arcane-retreat-14101.herokuapp.com/">View Demo</a> -->
+    <!-- · -->
+    <a href="https://github.com/yashfalke77">Report Bug</a>
+    ·
+    <a href="https://github.com/yashfalke77">Request Feature</a>
+  </p>
+</div>
+
+<!-- ABOUT THE PROJECT -->
+
+### Project Images
+
+<img src="./project screenshots/1.png" alt="Logo" >
+
+<img src="./project screenshots/2.png" alt="Logo" >
+
+<img src="./project screenshots/3.png" alt="Logo" >
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 # fyle-assignment
 
 
