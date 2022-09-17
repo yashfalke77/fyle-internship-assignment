@@ -25,7 +25,7 @@ const UserDetails = () => {
     const handleSubmit = async (evt) => {
         evt.preventDefault()
         try {
-            setLoaders(false)
+            setLoaders(true)
             const config = { headers: { Accept: "application/json" } }
             const details = await axios.get(`https://api.github.com/users/${evt.target[1].value}`, config)
             const repos = await axios.get(`https://api.github.com/users/${evt.target[1].value}/repos`, config)
