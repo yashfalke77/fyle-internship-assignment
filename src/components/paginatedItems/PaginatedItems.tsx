@@ -13,7 +13,7 @@ const PaginatedItems = ({ repos }: PaginatedItemsProps) => {
     const [currentItems, setCurrentItems] = useState([]);
     const [pageCount, setPageCount] = useState(0);
     const [itemOffset, setItemOffset] = useState(0);
-    const itemsPerPage: number = 6
+    const itemsPerPage: number = 10
 
     useEffect(() => {
         const endOffset = itemOffset + itemsPerPage;
