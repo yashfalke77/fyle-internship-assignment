@@ -37,6 +37,7 @@ const UserDetails = () => {
         } catch (error) {
             setinitial(false)
             setProfileError(true)
+            setLoaders(false)
         }
     }
 
